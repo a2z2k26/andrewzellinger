@@ -103,7 +103,7 @@ Product strategy, design and engineering from 0 - 100. Specializing in AI-assist
 
 ## Stack
 
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Three.js` `Tailwind` `Node.js` `FastAPI` `SQL` `GraphQL` `MCP` `Pydantic AI` `Claude Code` `Codex` `Cursor` `Ghostty` `Warp` `Zed` `VS Code` `Figma` `Storybook` `Framer` `Webflow` `Rive` `Spline` `Blender` `Midjourney` `GitHub` `Notion` `Linear` `Discord` `Substack` `LinkedIn` `X.com` `Slack` `n8n` `Vercel` `Cloudflare` `Railway` `Supabase` `Docker`
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Three.js` `Tailwind` `Node.js` `FastAPI` `SQL` `GraphQL` `MCP` `Pydantic AI` `Claude Code` `Codex` `Cursor` `Ghostty` `Warp` `Zed` `VS Code` `Figma` `Storybook` `Framer` `Webflow` `Rive` `Spline` `Blender` `Midjourney` `GitHub` `Notion` `n8n` `Vercel` `Cloudflare` `Railway` `Supabase` `Pinecone` `DigitalOcean` `Docker` `Etc.`
 
 ## Connect
 
