@@ -12,8 +12,6 @@ Strategy -> Design -> Engineering
 
 Product strategy, design and engineering from 0 - 100. Specializing in AI-assisted product development, multi-agent orchestration, design-to-code workflows, and automation systems for small teams moving fast.
 
-## Public Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -101,11 +99,7 @@ Product strategy, design and engineering from 0 - 100. Specializing in AI-assist
   </tr>
 </table>
 
-## Stack
-
 `Python` `TypeScript` `JavaScript` `React` `Next.js` `Three.js` `Tailwind` `Node.js` `FastAPI` `SQL` `GraphQL` `MCP` `Pydantic AI` `Claude Code` `Codex` `Cursor` `Ghostty` `Warp` `Zed` `VS Code` `Figma` `Storybook` `Framer` `Webflow` `Rive` `Spline` `Blender` `Midjourney` `GitHub` `Notion` `n8n` `Vercel` `Cloudflare` `Railway` `Supabase` `Pinecone` `DigitalOcean` `Docker` `Etc.`
-
-## Connect
 
 [andrewzellinger.com](http://www.andrewzellinger.com)  
 [hello@andrewzellinger.com](mailto:hello@andrewzellinger.com)  
