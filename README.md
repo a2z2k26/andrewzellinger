@@ -7,6 +7,9 @@
                                                               |___/
 ```
 
+<br>
+<br>
+
 **Staff AI Product Designer & Fractional Design Partner**  
 Strategy -> Design -> Engineering
 
