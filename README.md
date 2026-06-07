@@ -1,23 +1,16 @@
 ```
-    _    _   _ ____  ____  _______        __
-   / \  | \ | |  _ \|  _ \| ____\ \      / /
-  / _ \ |  \| | | | | |_) |  _|  \ \ /\ / /
- / ___ \| |\  | |_| |  _ <| |___  \ V  V /
-/_/   \_\_| \_|____/|_| \_\_____|  \_/\_/
-
- __________ _     _     ___ _   _  ____ _____ ____
-|__  / ____| |   | |   |_ _| \ | |/ ___| ____|  _ \
-  / /|  _| | |   | |    | ||  \| | |  _|  _| | |_) |
- / /_| |___| |___| |___ | || |\  | |_| | |___|  _ <
-/____|_____|_____|_____|___|_| \_|\____|_____|_| \_\
+    _              _                     _____    _ _ _
+   / \   _ __   __| |_ __ _____      __ |__  /___| | (_)_ __   __ _  ___ _ __
+  / _ \ | '_ \ / _` | '__/ _ \ \ /\ / /   / // _ \ | | | '_ \ / _` |/ _ \ '__|
+ / ___ \| | | | (_| | | |  __/\ V  V /   / /|  __/ | | | | | | (_| |  __/ |
+/_/   \_\_| |_|\__,_|_|  \___| \_/\_/   /____\___|_|_|_|_| |_|\__, |\___|_|
+                                                              |___/
 ```
 
-# Andrew Zellinger
-
 **Staff AI Product Designer & Fractional Design Partner**  
-Product strategy -> interface systems -> front-end code -> agentic infrastructure
+Strategy -> Design -> Engineering
 
-I take products the whole distance: strategy, design, and code. My current work is focused on AI-assisted product building, multi-agent orchestration, design-to-code workflows, MCP servers, and automation systems for small teams moving fast.
+Product strategy, design and engineering from 0 - 100. Specializing in AI-assisted product development, multi-agent orchestration, design-to-code workflows, and automation systems for small teams moving fast.
 
 ## Current Work
 
