@@ -12,8 +12,6 @@ Strategy -> Design -> Engineering
 
 Product strategy, design and engineering from 0 - 100. Specializing in AI-assisted product development, multi-agent orchestration, design-to-code workflows, and automation systems for small teams moving fast.
 
-## Current Work
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -41,40 +39,16 @@ Product strategy, design and engineering from 0 - 100. Specializing in AI-assist
   </tr>
 </table>
 
-## Next Public Releases
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Design Director</h3>
-      <p>Local product-planning workspace for turning product ideas into implementation-ready handoff packages.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Figma Design to Code</h3>
-      <p>Design automation toolkit for extracting Figma system data into production-oriented component assets.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Semantic Memory MCP</h3>
-      <p>SQLite-backed shared memory, search, conflict resolution, and peer coordination for parallel agents.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Agent Primitives</h3>
-      <p>Reusable packages for rate limits, token budgets, provider routing, file locking, memory, and orchestration.</p>
-    </td>
-  </tr>
-</table>
-
-## Background
-
-20+ years across product design, brand systems, UX, and design engineering. Former design leadership across Philosophie, Method, Ustwo, and independent practice. Work includes Amazon, Google, McDonald's, Audible, Noom, Fi, Avantos, Cosmos, PwC, Turner, WeWork, and American Express.
-
 ## Stack
 
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Three.js` `Tailwind` `Node.js` `FastAPI` `MCP` `Pydantic AI` `Claude Code` `Codex` `Cursor` `Figma` `Storybook` `Notion` `GitHub` `n8n`
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Three.js` `Tailwind` `Node.js` `FastAPI` `SQL` `GraphQL` `MCP` `Pydantic AI` `Claude Code` `Codex` `Cursor` `Ghostty` `Warp` `Zed` `VS Code` `Figma` `Storybook` `Framer` `Webflow` `Rive` `Spline` `Blender` `Midjourney` `GitHub` `Notion` `Linear` `Discord` `Substack` `LinkedIn` `X.com` `Slack` `n8n` `Vercel` `Cloudflare` `Railway` `Supabase` `Docker`
 
 ## Connect
 
 [andrewzellinger.com](http://www.andrewzellinger.com)  
-[hello@andrewzellinger.com](mailto:hello@andrewzellinger.com)
+[hello@andrewzellinger.com](mailto:hello@andrewzellinger.com)  
+[Discord](http://www.andrewzellinger.com)  
+[Substack](http://www.andrewzellinger.com)  
+[LinkedIn](http://www.andrewzellinger.com)  
+[GitHub](http://www.andrewzellinger.com)  
+[X.com](http://www.andrewzellinger.com)
